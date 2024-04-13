@@ -16,6 +16,10 @@ I am a full stack developer and artist who enjoys learning and creating fun proj
   <a href="https://www.linkedin.com/in/uğur-özdemir-20b80b241">&nbsp;Linkedin profile</a>
 </p>
 
+### Introductions to my favorite projects
+
+<a href="https://github.com/ugurozdemir97/myprojects">&nbsp;My Projects</a>
+
 ### I have a drawing course on Udemy:
 https://www.udemy.com/course/the-complete-drawing-course-everything-you-need-to-know/
 
