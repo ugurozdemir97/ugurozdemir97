@@ -21,7 +21,8 @@ I am a full stack developer and artist who enjoys learning and creating fun proj
 </p>
 
 ### I have a drawing course on Udemy:
-https://www.udemy.com/course/the-complete-drawing-course-everything-you-need-to-know/
+And now it's free for 30 days to the first 100 people to use this link!
+https://www.udemy.com/course/the-complete-drawing-course-everything-you-need-to-know/?couponCode=4E90F911B7951A0981FB
 
 ### My skills:
 <p align="center">
