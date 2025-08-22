@@ -1,6 +1,6 @@
 ## Hello, I'm Uğur Özdemir ☘️
 
-I am a full stack developer and artist who enjoys learning and creating fun projects. I develop both web and desktop applications, games. I also try to design and draw for my own projects a lot. I hope you like them.
+I'm a full-stack developer and artist who enjoys learning and creating projects across various domains. I develop web and desktop applications and games. I also try to design and draw for my own projects.
 
 ### Introductions of my favorite projects
 
